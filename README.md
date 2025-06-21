@@ -90,7 +90,8 @@ Add search history per user UI
 Real-time search suggestions
 
 Screenshots of pages:
-![image](https://github.com/user-attachments/assets/440031eb-0b93-4e79-9b57-ea50a12d7cdc)
+![image](https://github.com/user-attachments/assets/216cd92c-d8a2-4d08-bdbd-a0751375f704)
+
 
 ![image](https://github.com/user-attachments/assets/b0834117-552f-4f01-96a1-3d5bbb73c438)
 
