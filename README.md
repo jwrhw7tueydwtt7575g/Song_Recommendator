@@ -88,8 +88,3 @@ Store logs in database (e.g., SQLite or PostgreSQL)
 Add search history per user UI
 
 Real-time search suggestions
-
-
-
-
-![d25141d8-4c2e-42b4-adbd-fec3412aa61f](https://github.com/user-attachments/assets/c91742e3-9c81-40cb-a06c-8393fe32b66b)
